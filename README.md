@@ -1,6 +1,8 @@
 # repbarmover
-World of Warcraft Addon to show reputation bar
 ![rbm](https://github.com/user-attachments/assets/d468d22a-2e51-47ab-a1d6-8763f0dd535d)
+
+World of Warcraft Addon to show reputation bar
+right-clicking the bar opens the menu
 
 Reputation Bar Display: Show the current reputation level, progress, and faction name clearly.
 
@@ -13,3 +15,4 @@ Texture Selection: Offer a selection of different textures for the bar, such as 
 Color Customization: Allow players to change the colors for the different reputation levels (e.g., friendly, honored, revered) for better visibility.
 
 Addon is missing features I would like to add later like removing text labels but Its nothing I'm focusing on at the moment. 
+
