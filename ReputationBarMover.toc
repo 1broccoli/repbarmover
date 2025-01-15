@@ -1,0 +1,8 @@
+## Interface: 11403
+## Title: ReputationBarMover
+## Notes: A simple addon to display a moveable reputation bar with customizable styles.
+## Author: Broccoli
+## Version: 1.5
+## SavedVariables: ReputationBarMoverDB 
+
+ReputationBarMover.lua
