@@ -1,5 +1,6 @@
 # repbarmover
-![rbm](https://github.com/user-attachments/assets/d468d22a-2e51-47ab-a1d6-8763f0dd535d)
+![image](https://github.com/user-attachments/assets/7d14326a-290f-4e63-8b89-0a6efdb2b077)
+
 
 World of Warcraft Addon to show reputation bar
 right-clicking the bar opens the menu
